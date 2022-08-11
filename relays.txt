@@ -1,0 +1,10 @@
+https://relay.mas.to/inbox
+https://relay.pettingzoo.co/inbox
+https://relay.101010.pl/inbox
+https://mastodon-relay.thedoodleproject.net/inbox
+https://relay.beckmeyer.us/inbox
+https://relay.fedi.agency/inbox
+https://relay.libranet.de/inbox
+https://relay.minecloud.ro/inbox
+https://relay.social.tigwali.fr/inbox
+https://en.relay.friendi.ca/inbox
