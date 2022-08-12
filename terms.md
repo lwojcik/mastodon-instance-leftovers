@@ -16,4 +16,4 @@ I do not support nor engage in hate speech, harassment, racism, sexism, homophob
 <br/><br/>
 I do not support nor engage in disinformation campaigns or conspiracy theories undermining public health.
 <br/><br/>
-If you notice any unexpected behavior that can be traced back to my instance and doesn't align with the standards I described above, <a href="https://www.lukaszwojcik.net/contact/">please contact me directly</a>. Thank you!
+If you notice any unexpected behavior that can be traced back to my instance and doesn't align with the standards I described above, <a href="#">please contact me directly</a>. Thank you!
