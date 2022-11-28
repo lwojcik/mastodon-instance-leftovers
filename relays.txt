@@ -8,3 +8,7 @@ https://relay.libranet.de/inbox
 https://relay.minecloud.ro/inbox
 https://relay.social.tigwali.fr/inbox
 https://en.relay.friendi.ca/inbox
+
+More comprehensive & up-to-date list:
+
+https://github.com/brodi1/activitypub-relays
